@@ -1,0 +1,69 @@
+[17-Apr-2022 22:13:21 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '$percentage' (T_VARIABLE), expecting ',' or ';' in /home8/javathre/public_html/s271059/mys_website/php/admin/manage_report.php on line 162
+[17-Apr-2022 22:13:45 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '$percentage' (T_VARIABLE), expecting ',' or ';' in /home8/javathre/public_html/s271059/mys_website/php/admin/manage_report.php on line 162
+[17-Apr-2022 22:13:47 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '$percentage' (T_VARIABLE), expecting ',' or ';' in /home8/javathre/public_html/s271059/mys_website/php/admin/manage_report.php on line 162
+[22-Apr-2022 21:41:55 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/javathre/public_html/s271059/mys_website/php/admin/manage_document.php on line 80
+[24-Apr-2022 12:51:13 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home8/javathre/public_html/s271059/mys_website/php/admin/manage_validation.php on line 379
+[24-Apr-2022 12:51:14 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home8/javathre/public_html/s271059/mys_website/php/admin/manage_validation.php on line 379
+[24-Apr-2022 15:50:51 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/javathre/public_html/s271059/mys_website/php/admin/manage_validation.php on line 51
+[25-Apr-2022 23:14:37 Asia/Kuala_Lumpur] PHP Warning:  array_chunk() expects parameter 1 to be array, null given in /home8/javathre/public_html/s271059/mys_website/php/admin/manage_submission.php on line 94
+[25-Apr-2022 23:14:37 Asia/Kuala_Lumpur] PHP Warning:  array_chunk() expects parameter 1 to be array, null given in /home8/javathre/public_html/s271059/mys_website/php/admin/manage_submission.php on line 94
+[25-Apr-2022 23:14:37 Asia/Kuala_Lumpur] PHP Warning:  array_chunk() expects parameter 1 to be array, null given in /home8/javathre/public_html/s271059/mys_website/php/admin/manage_submission.php on line 94
+[25-Apr-2022 23:15:04 Asia/Kuala_Lumpur] PHP Warning:  array_chunk() expects parameter 1 to be array, null given in /home8/javathre/public_html/s271059/mys_website/php/admin/manage_submission.php on line 94
+[25-Apr-2022 23:15:04 Asia/Kuala_Lumpur] PHP Warning:  array_chunk() expects parameter 1 to be array, null given in /home8/javathre/public_html/s271059/mys_website/php/admin/manage_submission.php on line 94
+[25-Apr-2022 23:15:04 Asia/Kuala_Lumpur] PHP Warning:  array_chunk() expects parameter 1 to be array, null given in /home8/javathre/public_html/s271059/mys_website/php/admin/manage_submission.php on line 94
+[26-Apr-2022 21:19:27 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home8/javathre/public_html/s271059/mys_website/php/admin/manage_profile.php:73
+Stack trace:
+#0 /home8/javathre/public_html/s271059/mys_website/php/admin/manage_profile.php(67): sendEmail('shenmeng0124@gm...', NULL)
+#1 {main}
+  thrown in /home8/javathre/public_html/s271059/mys_website/php/admin/manage_profile.php on line 73
+[05-May-2022 12:10:09 Asia/Kuala_Lumpur] PHP Warning:  require(/home8/javathre/public_html/s271059/mys_website/php/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_profile.php on line 6
+[05-May-2022 12:10:09 Asia/Kuala_Lumpur] PHP Warning:  require(/home8/javathre/public_html/s271059/mys_website/php/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_profile.php on line 6
+[05-May-2022 12:10:09 Asia/Kuala_Lumpur] PHP Fatal error:  require(): Failed opening required '/home8/javathre/public_html/s271059/mys_website/php/PHPMailer/Exception.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_profile.php on line 6
+[05-May-2022 12:10:16 Asia/Kuala_Lumpur] PHP Warning:  require(/home8/javathre/public_html/s271059/mys_website/php/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_profile.php on line 6
+[05-May-2022 12:10:16 Asia/Kuala_Lumpur] PHP Warning:  require(/home8/javathre/public_html/s271059/mys_website/php/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_profile.php on line 6
+[05-May-2022 12:10:16 Asia/Kuala_Lumpur] PHP Fatal error:  require(): Failed opening required '/home8/javathre/public_html/s271059/mys_website/php/PHPMailer/Exception.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_profile.php on line 6
+[11-May-2022 03:53:11 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 83
+[11-May-2022 03:53:11 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 90
+[11-May-2022 03:55:04 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 83
+[11-May-2022 03:55:04 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 90
+[11-May-2022 03:57:15 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 84
+[11-May-2022 03:57:15 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 91
+[11-May-2022 04:02:00 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 84
+[11-May-2022 04:02:00 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 91
+[11-May-2022 04:03:30 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 84
+[11-May-2022 04:03:30 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 91
+[11-May-2022 04:04:33 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 85
+[11-May-2022 04:04:33 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 92
+[11-May-2022 04:11:23 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php:33
+Stack trace:
+#0 {main}
+  thrown in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 33
+[11-May-2022 04:11:28 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php:33
+Stack trace:
+#0 {main}
+  thrown in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 33
+[11-May-2022 04:11:59 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php:32
+Stack trace:
+#0 {main}
+  thrown in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 32
+[11-May-2022 04:13:51 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php:32
+Stack trace:
+#0 {main}
+  thrown in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 32
+[11-May-2022 04:14:53 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php:32
+Stack trace:
+#0 {main}
+  thrown in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 32
+[11-May-2022 04:15:57 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 83
+[11-May-2022 04:17:55 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 83
+[11-May-2022 04:20:23 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 85
+[17-May-2022 20:58:32 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 86
+[17-May-2022 22:34:04 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 99
+[17-May-2022 22:47:40 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 99
+[17-May-2022 22:52:32 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 99
+[17-May-2022 22:53:02 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 99
+[17-May-2022 22:53:56 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 99
+[17-May-2022 22:55:22 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 99
+[17-May-2022 22:58:14 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 99
+[17-May-2022 22:58:39 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 99
+[17-May-2022 23:15:57 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home8/hubbuddi/public_html/271490/mys_website/php/admin/manage_submission.php on line 146
